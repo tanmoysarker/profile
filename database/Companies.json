@@ -1,18 +1,17 @@
 [
   {
-    "position": "Senior Frontend Developer",
-    "company": "TenTwenty Digital Agency",
-    "duration": "January 2022 - September 2023",
-    "location": "Remote",
+    "position": "Frontend Developer",
+    "company": "OOBIKOO GAMES PTY LTD ",
+    "duration": "January 2025 - Present",
+    "location": "Ballarat, VIC, Australia - (Hybrid)",
     "image": "/company/tentwenty.svg",
-    "url": "https://www.tentwenty.me/",
+    "url": "https://www.oobikoo.com/",
     "responsibilities": [
-      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
-      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
-      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
-      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
-      "Experienced Arabic RTL layout in two significant projects.",
-      "Successfully met deadlines, delivering 10+ projects on time."
+      "Built and deployed ERC-721 NFT membership contracts with mint/burn logic and upgradeable proxy (OpenZeppelin, Hardhat).",
+      "Implemented wallet auth flows with EIP-191 signatures, JWT tokens, and MetaMask, WalletConnect, and Passport support.",
+      "Developed frontend DApp (Next.js + React) for wallet connect, contract interaction, and real-time UX feedback.",
+      "Integrated blockchain with backend APIs for membership checks and on-chain queries.",
+      "Secured contracts with signature verification, access control, and anti-reentrancy guards."
     ],
     "color": {
       "h": "221",
@@ -21,17 +20,16 @@
     }
   },
   {
-    "position": "UI & FE Developer",
-    "company": "Denge Bilgisayar",
-    "duration": "May 2018 - January 2022",
-    "location": "Hybrid",
+    "position": "SOFTWARE DEVELOPER",
+    "company": "JOURNEY2",
+    "duration": "Aug 2024 ‑ Nov 2024 ",
+    "location": "Ballarat, VIC, Australia - (Remote)",
     "image": "/company/denge-bilgisayar.svg",
-    "url": "httsp://denge.com.tr/",
+    "url": "https://www.linkedin.com/company/tmmjconsulting/?originalSubdomain=au",
     "responsibilities": [
-      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
-      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
-      "Ensured fast page loading, scoring over 90 in page speed.",
-      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
+      "Delivered debt management system for 70+ ForHealth clinics to improve financial oversight.",
+      "Upgraded QR Check-In app with concession card benefits, enhancing access for seniors and DVA holders.",
+      "Led frontend dev and testing; used MS Clarity and MongoDB to optimize performance and UX."
     ],
     "color": {
       "h": "206",
@@ -40,16 +38,15 @@
     }
   },
   {
-    "position": "Frontend Developer",
-    "company": "Agency Look",
-    "duration": "April 2017 - May 2018",
-    "location": "On-site",
+    "position": "SENIOR SOFTWARE DEVELOPER",
+    "company": "METADESIGN SOLUTIONS",
+    "duration": "Oct 2022 ‑ Jan 2023",
+    "location": "Gurgaon, India - (Remote)",
     "image": "/company/agency-look.svg",
-    "url": "https://look.agency/",
+    "url": "https://metadesignsolutions.com/",
     "responsibilities": [
-      "Developed and maintained functional pages for web applications.",
-      "Worked with a .NET based custom CMS.",
-      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
+      "Worked on a Blockchain based token sharing application with Ethereum. I worked there as a freelance developer to improve the Front-end part.",
+      "Designed and integrated the app interface with Node.js server logic, developed secure APIs, implemented MongoDB CRUD operations, and converted the project to TypeScript for better maintainability."
     ],
     "color": {
       "h": "240",
@@ -58,14 +55,32 @@
     }
   },
   {
-    "position": "Web Designer",
-    "company": "Softanka Yazılım",
-    "duration": "January 2016 - March 2017",
-    "location": "On-site",
+    "position": "FRONT END DEVELOPER",
+    "company": "AALPIN DIGITAL (ON THE PROJECT OF BISLY) ",
+    "duration": "Oct 2021 ‑ Sep 2022",
+    "location": "Talinn, Estonia - (Remote)",
     "image": "/company/softanka.svg",
-    "url": "https://www.playanka.com/",
+    "url": "https://www.bisly.com/",
     "responsibilities": [
-      "Designed and developed themes for game markets"
+      "Built mobile applications using React Native to deliver a consistent experience across iOS and Android platforms. Optimized the app’s performance and user interface for different devices and screen sizes.",
+      "Designed and implemented the interface for controlling home or office devices within the Bisly ecosystem, displaying electricity consumption and costs with monthly charts and filtering options."
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  },
+  {
+    "position": "JAVASCRIPT ENGINEER",
+    "company": "WEDEVS",
+    "duration": "Jan 2020 – Sep 2021 ",
+    "location": "Dhaka, Bangladesh - (Onsite)",
+    "image": "/company/softanka.svg",
+    "url": "https://wedevs.com/",
+    "responsibilities": [
+      "Led React Native development for Dokan-based E-commerce app used by 70,000+ businesses; delivered custom features to 200+ clients via CI/CD pipeline.",
+      "Managed a team of 4, ensuring code quality and collaboration through Git and code reviews."
     ],
     "color": {
       "h": "210",
@@ -73,4 +88,5 @@
       "l": "90%"
     }
   }
+
 ]

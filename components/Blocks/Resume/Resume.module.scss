@@ -46,7 +46,7 @@
   padding: 1.5rem;
   aspect-ratio: 3 / 4;
   max-width: 38rem;
-  transition: all .3s ease;
+  transition: all .5s ease;
   @include respond-below(sm) {
     max-width: 22rem;
     border-radius: 1rem;
@@ -156,7 +156,7 @@
     img{
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
     }
   }
   .pseudo {

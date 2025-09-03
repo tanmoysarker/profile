@@ -95,7 +95,7 @@
 .circularCarouselWrapper{
   position: relative;
   --circSize: 65dvw;
-  --cardSize: calc(var(--circSize) / 5.2);
+  --cardSize: calc(var(--circSize) / 6.0);
   padding: calc(var(--cardSize) / 2);
   margin: 0 auto 0 auto;
   width: fit-content;
@@ -103,12 +103,21 @@
   overflow: hidden;
 
   @include respond-below(sm) {
-    --circSize: 150dvw;
-    --cardSize: calc(var(--circSize) / 4);
-    padding: calc(var(--cardSize) / 2);
-    height: calc(var(--circSize) * 0.7);
-    left: -50dvw;
+    --circSize: 170dvw;
+    --cardSize: calc(var(--circSize) / 6);
+    padding: calc(var(--cardSize) / 2.2);
+    height: calc(var(--circSize) * .76);
+    left: -55dvw;
   }
+  .circularCarouselWrapper .box .icon {
+    position: relative;
+    width: calc(var(--cardSize) * 0.72);
+    height: calc(var(--cardSize) * 0.72);
+  }
+  .circularCarouselWrapper .box .image {
+    object-fit: contain;
+  }
+  
 
   .circularCarousel{
     width: var(--circSize);
@@ -130,9 +139,8 @@
     align-items: center;
     background: conic-gradient(#f0f0f0, hsla(var(--color-white), 1));
     border-radius: 2rem;
-
     .image{
-      max-width: calc(var(--cardSize) - (var(--cardSize) / 2));
+      max-width: calc(var(--cardSize) - (var(--cardSize) / 4));
     }
   }
   .collisionDiv{

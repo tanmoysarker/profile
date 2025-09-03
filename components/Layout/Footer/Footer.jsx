@@ -78,13 +78,15 @@ export default function Footer() {
                 </div>
 
                 <div className={styles.bottom} ref={footerBottom}>
-                    <Logo classVariable={styles.badge}></Logo>
+                    {/* <Logo classVariable={styles.badge}></Logo> */}
+                    <span className={`${styles.fancylogo} text-6xl font-black tracking-wide`}>TS</span>
+
                     <div className={styles.copyright}>&copy; {currentYear} {commonConfig.personal.name} {commonConfig.personal.surname}
                         <br/>
-                        Powered by&nbsp;
+                        {/* Powered by&nbsp;
                         Vercel,&nbsp;
-                        Next.js, and &nbsp;
-                        <Link href="https://github.com/yasingencnet/webkit">GitHub</Link>.
+                        Next.js, and &nbsp; */}
+                        {/* <Link href="https://github.com/yasingencnet/webkit">GitHub</Link>. */}
                         <br/>
                         {`${commonConfig.personal.city}, ${commonConfig.personal.state} ${currentTime}`}&nbsp;
                         •&nbsp;

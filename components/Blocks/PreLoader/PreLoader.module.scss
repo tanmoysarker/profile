@@ -37,3 +37,22 @@
     opacity: .3;
   }
 }
+.fancylogo {
+  background: linear-gradient(135deg, #00f0ff, #ff00d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  animation: glow 2s infinite alternate;
+  font-family: 'Orbitron', sans-serif; /* try custom sci-fi font */
+  letter-spacing: 0.05em;
+  font-size: 3rem;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
+  }
+  to {
+    text-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #f0f;
+  }
+}

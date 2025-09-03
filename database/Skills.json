@@ -4,69 +4,104 @@
     "image": "/icon/icon-js.svg",
     "title": "JavaScript",
     "subtitle": "Vanilla, jQuery",
-    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+    "description": "I build interactive, performant front-ends with modern ES6+ JavaScript, DOM APIs, and robust async patterns."
   },
   {
     "icon": "IconReact",
     "image": "/icon/icon-react.svg",
     "title": "React JS",
     "subtitle": "Next.js, Vercel",
-    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+    "description": "I craft scalable UIs with reusable components, hooks, and sensible state management, focusing on performance and DX."
   },
   {
     "icon": "IconCSS",
     "image": "/icon/icon-css.svg",
     "title": "CSS",
     "subtitle": "Animations, Sass",
-    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+    "description": "I ship responsive, pixel-perfect layouts with Flexbox/Grid and tasteful animations using Sass and modern CSS features."
   },
   {
     "icon": "IconHTML",
     "image": "/icon/icon-html.svg",
     "title": "HTML",
     "subtitle": "Semantic Markup",
-    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
-  },
-  {
-    "icon": "IconOptimization",
-    "image": "/icon/icon-optimization.svg",
-    "title": "PageSpeed",
-    "subtitle": "Insights",
-    "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
-  },
-  {
-    "icon": "IconA11Y",
-    "image": "/icon/icon-a11y.svg",
-    "title": "A11Y",
-    "subtitle": "Web Accessibility",
-    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
+    "description": "I write semantic, accessible markup with ARIA where needed, laying a strong foundation for SEO and usability."
   },
   {
     "icon": "IconFigma",
     "image": "/icon/icon-figma.svg",
     "title": "Design",
     "subtitle": "Figma & Photoshop",
-    "description": "While not a full-time UI designer, I have an eye for aesthetics, creating visually appealing and user-friendly interfaces."
-  },
-  {
-    "icon": "IconWebpack",
-    "image": "/icon/icon-webpack.svg",
-    "title": "Development Env.",
-    "subtitle": "Webpack",
-    "description": "I use tools like Webpack, Vite, Parcel, or Gulp to streamline workflows, automating development for efficiency."
+    "description": "I translate ideas into clean, usable interfaces—components, auto-layout, and quick prototypes to align design and dev."
   },
   {
     "icon": "IconAPI",
     "image": "/icon/icon-api.svg",
     "title": "REST APIs",
-    "subtitle": "Axios x Fetch",
-    "description": "I integrate data and functionality seamlessly with REST APIs, creating dynamic web applications for enhanced performance."
+    "subtitle": "Axios × Fetch",
+    "description": "I integrate UIs with REST services—auth, pagination, error handling, and caching—for reliable data flows."
   },
   {
-    "icon": "IconGSAP",
+    "icon": "IconReactNative",
     "image": "/icon/icon-gsap.svg",
-    "title": "GSAP",
-    "subtitle": "Scroll Animations",
-    "description": "I use GSAP for captivating animations that bring web pages to life, enhancing the overall user experience."
+    "title": "React Native",
+    "subtitle": "iOS & Android",
+    "description": "I build cross-platform mobile apps with React Native/Expo, focusing on navigation, performance, and native feel."
+  },
+  {
+    "icon": "IconNode",
+    "image": "/icon/nodejs-square-200.png",
+    "title": "Node",
+    "subtitle": "Express, REST",
+    "description": "I create backend services with Node.js and Express—routing, middleware, authentication, and database integrations."
+  },
+  {
+    "icon": "IconVue",
+    "image": "/icon/vue.png",
+    "title": "Vue",
+    "subtitle": "Composition API, Pinia",
+    "description": "I develop SPAs with Vue 3—components, reactive state with Pinia, and router-based navigation."
+  },
+  {
+    "icon": "IconNext",
+    "image": "/icon/next.png",
+    "title": "Next",
+    "subtitle": "App Router, SSR/SSG",
+    "description": "I build full-stack React apps in Next.js—data fetching, SSR/SSG/ISR, API routes, and image optimization on Vercel."
+  },
+  {
+    "icon": "IconSolidity",
+    "image": "/icon/solidity.jpeg",
+    "title": "Solidity",
+    "subtitle": "Smart Contracts",
+    "description": "I write and test Solidity smart contracts with Hardhat/Foundry, applying secure patterns and gas optimizations."
+  },
+  {
+    "icon": "IconGit",
+    "image": "/icon/git.png",
+    "title": "Git",
+    "subtitle": "Branching, PRs",
+    "description": "I manage code with Git—feature branching, code reviews, rebasing, and clean histories integrated with CI."
+  },
+  {
+    "icon": "IconTypeScript",
+    "image": "/icon/Typescript.png",
+    "title": "TypeScript",
+    "subtitle": "Types, Generics",
+    "description": "I deliver type-safe React/Node code using strict TypeScript, generics, utility types, and incremental typing."
+  },
+  {
+    "icon": "IconAWS",
+    "image": "/icon/aws.png",
+    "title": "AWS",
+    "subtitle": "EC2, S3, Lambda",
+    "description": "I have done AWS pratitioner certifiaction have worked on AWS—serverless functions, object storage, compute, IAM, and global delivery with CloudFront."
+  },
+  {
+    "icon": "IconDocker",
+    "image": "/icon/docker.png",
+    "title": "Docker",
+    "subtitle": "Containers, Compose",
+    "description": "I containerize apps with Docker—multi-stage builds, docker-compose, and dev/prod parity for reliable shipping."
   }
 ]

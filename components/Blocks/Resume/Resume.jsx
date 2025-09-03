@@ -49,14 +49,13 @@ export default function Resume() {
                     <div className={styles.cardGroup} ref={cardGroup}>
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
-                                <div className={styles.cardTitle}>YASIN GENC</div>
-                                <div className={styles.cardDesc}>Senior Frontend Developer</div>
+                                <div className={styles.cardTitle}>Tanmoy Sarker</div>
+                                <div className={styles.cardDesc}>Frontend Developer</div>
                                 <hr/>
-                                <p>I am Yasin, a senior frontend developer with over 7 years of professional experience.
-                                    Successfully building user-friendly websites with ReactJS & NextJS. I pay attention
-                                    to
-                                    small details, enjoy technical problems, and work well in teams. I like learning new
-                                    technologies and always aim to improve my skills.
+                                <p>I am Tanmoy, a Versatile software developer with strong frontend, mobile, and Web3 expertise.
+Built NFT membership systems, wallet-auth DApps, and smart contract platforms.
+Delivered scalable interfaces for home automation and e-commerce. Thrive in col-
+laborative, product-driven environments.
                                 </p>
                                 <div>
                                     <Link href={`mailto:${commonConfig.personal.email}`} target={'_blank'}>
@@ -65,15 +64,15 @@ export default function Resume() {
                                     <span>{commonConfig.personal.city}, {commonConfig.personal.state}</span>
                                 </div>
                                 <hr/>
-                                <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
+                                <div className={styles.cardSectionTitle}>CURRENT POSITION</div>
                                 <p>
-                                    Senior Frontend Developer | TenTwenty Digital Agency <br/>
-                                    UI & Frontend Developer | Denge Bilgisayar <br/>
-                                    Frontend Developer | Agency Look
+                                    Frontend Developer | OOBIKOO GAMES PTY LTD <br/>
+                                    {/* UI & Frontend Developer | Denge Bilgisayar <br/>
+                                    Frontend Developer | Agency Look */}
                                 </p>
                             </div>
                             <figure className={styles.figure}>
-                                <Image src="/yasin-genc-photo.jpeg" alt="Yasin Genc" width={150} height={150}/>
+                                <Image src="/Tanmoy.png" alt="Tanmoy" width={30} height={30}/>
                             </figure>
                         </div>
                         <div className={`${styles.card} ${styles.cardV2}`}>
@@ -90,7 +89,7 @@ export default function Resume() {
                     <div className={styles.links}>
                         <Link href={`${commonConfig.social.linkedin}`} target={'_blank'}>LinkedIn</Link>
                         <Link href={`${commonConfig.social.github}`} target={'_blank'}>GitHub</Link>
-                        <Link href={`${commonConfig.social.codepen}`} target={'_blank'}>CodePen</Link>
+                        {/* <Link href={`${commonConfig.social.codepen}`} target={'_blank'}>CodePen</Link> */}
                     </div>
                 </div>
             </Container>

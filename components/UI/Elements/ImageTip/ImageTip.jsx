@@ -8,11 +8,12 @@ export default function ImageTip({date, children}) {
         <div className={styles.element}>
             <figure className={styles.figure}>
                 <Image
-                    src="/yasin-genc-photo.jpeg"
+                    src="/Tanmoy.png"
                     alt={commonConfig.metadata.title}
-                    width={40}
-                    height={40}
+                    width={20}
+                    height={20}
                     loading={'lazy'}
+                    className="object-contain"
                 />
             </figure>
             <div className={styles.detail}>

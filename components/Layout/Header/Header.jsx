@@ -29,7 +29,10 @@ export default function Header() {
     return (
         <header className={`${styles.header} ${isMenuOpen ? styles.menuOpen : ''}`}>
             <div className={styles.inner}>
-                <Logo classVariable={styles.logo}></Logo>
+                {/* <Logo classVariable={styles.logo}></Logo> */}
+                <span className={`${styles.fancylogo} text-6xl font-black tracking-wide`}>TS</span>
+
+
                 <div className={styles.location}>{`${commonConfig.personal.city}, ${commonConfig.personal.state} ${currentTime}`}</div>
                 <div className={styles.openToWork}><span></span> Open To Work</div>
                 <Navigation isMenuOpen={isMenuOpen} setMenuOpen={setMenuOpen}></Navigation>

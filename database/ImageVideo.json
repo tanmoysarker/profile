@@ -1,75 +1,28 @@
 [
   {
-    "url": "/gallery/G0062517.JPG",
-    "date": "July 2022",
-    "location": "Oludeniz, Turkey",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20231225_165326.jpg",
-    "date": "December 2023",
-    "location": "Seattle, WA",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/G0062743.JPG",
-    "date": "30 August",
-    "location": "Kas, Turkey",
+    "url": "/gallery/govHack.png",
+    "date": "December 2024",
+    "location": "Honorable Mention - GovHack 2024",
     "direction": "horizontal"
   },
   {
-    "url": "/gallery/20180411_151600.jpg",
-    "date": "April 2018",
-    "location": "Bangkok, Thailand",
+    "url": "/gallery/solidity.png",
+    "date": "April 2025",
+    "location": "Passed the Solidity Developer Exam",
+    "direction": "Solidity Certification"
+  },
+  {
+    "url": "/gallery/Screenshot 2025-07-28 at 4.00.47 pm.png",
+    "date": "July 2024",
+    "location": "Passed AWS Certified Cloud Practitioner",
     "direction": "vertical"
   },
   {
-    "url": "/gallery/IMG20210306162608.jpg",
-    "date": "March 2021",
-    "location": "Chernobyl, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20230420_134057.jpg",
-    "date": "April 2023",
-    "location": "Lycian Way, Antalya",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20200720_191527.jpg",
-    "date": "July 2020",
-    "location": "Yalova, Turkey",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20210130_135221.jpg",
-    "date": "January 2021",
-    "location": "Lutsk, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20210713_103018.jpg",
-    "date": "July 2021",
-    "location": "Kamianets-Podilskyi, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20220715_132804.jpg",
-    "date": "July 2022",
-    "location": "Kas, Turkey",
+    "url": "/gallery/Screenshot 2025-07-28 at 4.01.11 pm.png",
+    "date": "April 2024",
+    "location": "Learned AWS Cloud Technical Essentials - Associate",
     "direction": "horizontal"
-  },
-  {
-    "url": "/gallery/image_2024-01-24_23-54-41.png",
-    "date": "February 2021",
-    "location": "Lviv, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG20210707082309.jpg",
-    "date": "July 2021",
-    "location": "Kyiv, Ukraine",
-    "direction": "vertical"
   }
+ 
 
 ]

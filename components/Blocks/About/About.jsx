@@ -15,10 +15,10 @@ export default function About() {
 
                 <header className={styles.header}>
                     <Title heading={'h3'} color="black"><span>I’m a</span> <br/>
-                        Creative Frontend Developer
+                      UI Focused Software Developer
                     </Title>
                     <TextReveal className={styles.description}>
-                        I would describe myself as a creative web developer with over 7 years of experience in development.
+                        I would describe myself as a creative mobile/web developer with over 5 years of experience in development.
                     </TextReveal>
                 </header>
 
@@ -45,8 +45,7 @@ export default function About() {
             <div className={styles.grid}>
                 <header className={styles.header}>
                     <TextReveal className={styles.description}>
-                        Currently, I live in Seattle. In my personal life, I love to travel with my backpack, watch documentaries about geography, and explore new traditional music.
-                    </TextReveal>
+                    Currently based in Ballarat, I thrive on exploring different roles—both in tech and life. Whether it&apos;s dominating in FIFA or holding my own in a real match, I bring the same competitive spirit to football as I do to coding.</TextReveal>
                 </header>
                 <ParallaxImage src={"/gallery/IMG_20231225_165326.jpg"} alt={`An image`} width={800} height={1200} className={styles.figure} />
                 <SeattleMap className={styles.map} />

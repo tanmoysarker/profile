@@ -60,13 +60,12 @@ export default function BoldTitle() {
                     understand designs well and builds effective communication between team members.
                 </TextReveal>
                 <h2 className={styles.boldTitle} ref={boldTitle}>
-                    <span className={styles.boldTitleLeft} ref={boldTitleLeft}>Creative</span>
-                    <span>Frontend</span>
+                    <span className={styles.boldTitleLeft} ref={boldTitleLeft}>UI Focused</span>
+                    <span>Software</span>
                     <span className={styles.boldTitleRight} ref={boldTitleRight}>Developer</span>
                 </h2>
                 <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>
-                    Currently, I live in Seattle. In my personal life, I love to travel with
-                    my backpack, watch documentaries about geography, and explore new traditional music.
+                Currently based in Ballarat, I thrive on exploring different roles—both in tech and life. Whether it&apos;s dominating in FIFA or holding my own in a real match, I bring the same competitive spirit to football as I do to coding.
                 </TextReveal>
 
                 <Blobs type={'v3'} classVariable={styles.blob} />

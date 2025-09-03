@@ -53,7 +53,8 @@ export default function PreLoader({ onComplete }) {
     return (
         <section className={styles.container} ref={container}>
             <div className={styles.badge}>
-                <Logo></Logo>
+                {/* <Logo></Logo> */}
+                <span className={`${styles.fancylogo} text-6xl font-black tracking-wide`}>TS</span>
             </div>
             <div className={styles.progress}></div>
         </section>
